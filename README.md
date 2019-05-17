@@ -1,10 +1,10 @@
-# I'm writing about these Principles! 
+## I'm writing about these Principles! 
 Look my profile in "Medium"
 
 Articles:
 (I'll translate my articles to English as soon)
 
-# Eu estou escrevendo sobre esses Princípios
+### Eu estou escrevendo sobre esses Princípios
 Veja meu perfil no Medium
 
 Artigos:
