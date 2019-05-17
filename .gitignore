@@ -27,10 +27,7 @@ nbproject/private/!.vscode/launch.json
 .vscode/*
 test-results/
 
-### Devskiller entries
-###
-### Please do not add anything below this line, your changes will be overwritten
-###
+
 __MACOSX/
 nbproject/private/
 !.vscode/launch.json
