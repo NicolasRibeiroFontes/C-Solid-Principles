@@ -1,13 +1,14 @@
-## I'm writing about these Principles! 
-Look my profile in "Medium"
+## English
 
-Articles:
+I'm writing about these Principles! 
+
+###Articles:
 (I'll translate my articles to English as soon)
 
-### Eu estou escrevendo sobre esses Princípios
-Veja meu perfil no Medium
+## Português
+Eu estou escrevendo sobre esses Princípios
 
-Artigos:
+###Artigos:
 
 ASPNET C# SOLID Principles
 https://medium.com/@nicolas.rfontes/aspnet-c-solid-principles-a6a04cddde05
