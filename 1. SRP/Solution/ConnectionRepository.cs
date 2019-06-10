@@ -9,7 +9,7 @@ namespace SRP.Solution
 {
     public class ConnectionRepository
     {
-        SqlConnection connection = new SqlConnection("Server=DESKTOP-H6UQ71S\\SQLEXPRESS;Data Source=DESKTOP-H6UQ71S\\SQLEXPRESS;Initial Catalog=SOLID;User ID=solid;Password=solid");
+        SqlConnection connection = new SqlConnection("Connection String");
 
         public SqlConnection OpenConnection()
         {

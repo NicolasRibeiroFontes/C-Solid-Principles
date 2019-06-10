@@ -1,16 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data;
-using System.Data.SqlClient;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Data.SqlClient;
 
 namespace SRP.Problem
 {
     public class User
     {
-        string connectionString = @"Server=.\sqlexpress;Database=SOLID;Trusted_Connection=True;";
+        string connectionString = @"Your Connection String";
 
         public User()
         {}
