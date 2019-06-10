@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8DF7B917-0DFE-4FE1-AF25-1E70582565F3}</ProjectGuid>
+    <ProjectGuid>{40714A5B-5643-4299-A254-3EB0B65BED8E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_4.ICP</RootNamespace>
-    <AssemblyName>_4.ICP</AssemblyName>
+    <RootNamespace>_5.DIP</RootNamespace>
+    <AssemblyName>_5.DIP</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,14 +42,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Problem\IRegisterService.cs" />
-    <Compile Include="Problem\ProductService.cs" />
+    <Compile Include="Problem\EmailService.cs" />
+    <Compile Include="Problem\User.cs" />
+    <Compile Include="Problem\UserRepository.cs" />
     <Compile Include="Problem\UserService.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Solution\IProductService.cs" />
-    <Compile Include="Solution\IUserService.cs" />
-    <Compile Include="Solution\ProductService.cs" />
+    <Compile Include="Solution\EmailService.cs" />
+    <Compile Include="Solution\Interfaces\IEmailService.cs" />
+    <Compile Include="Solution\Interfaces\IUserRepository.cs" />
+    <Compile Include="Solution\User.cs" />
+    <Compile Include="Solution\UserRepository.cs" />
     <Compile Include="Solution\UserService.cs" />
   </ItemGroup>
   <ItemGroup>
